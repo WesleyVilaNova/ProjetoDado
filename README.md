@@ -1,3 +1,3 @@
 
 Primeiro código em Kotlin.
-Desenvolvido um Jogo de Dado.
+Desenvolvendo um Jogo de Dado.
